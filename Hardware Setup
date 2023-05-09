@@ -1,0 +1,2 @@
+You will need to have multiple GPUs connected to a single machine or multiple machines connected over a network. The number of GPUs will depend on the size of the model and the complexity of the training task.
+
